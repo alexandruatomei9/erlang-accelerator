@@ -1,4 +1,4 @@
-REPL for key-value-store
+## REPL for key_value_store module
 
 ### Initialize the store
 ```shell
